@@ -1,4 +1,6 @@
-<div class="box" />
+<div class="box">
+	<slot />
+</div>
 
 <style>
 	.box {

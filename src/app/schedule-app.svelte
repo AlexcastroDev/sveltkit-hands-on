@@ -3,5 +3,8 @@
 </script>
 
 <div id="schedule-app">
-	<Box>teste</Box>
+	<Box>
+		<h2>Hello!</h2>
+		<p>Testing Slot.</p>
+	</Box>
 </div>
