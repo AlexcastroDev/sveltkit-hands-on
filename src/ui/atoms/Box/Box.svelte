@@ -1,6 +1,4 @@
-<div class="box">
-	<!-- content should be injected here -->
-</div>
+<div class="box" />
 
 <style>
 	.box {
